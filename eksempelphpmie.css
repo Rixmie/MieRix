@@ -1,0 +1,464 @@
+/*mobile */
+/* styling af body start */
+@media screen and (min-width: 400px){
+body { background-color: gray; /* baggrundsfarve */
+    font-family: saffran, sans-serif;
+    font-weight: 200;
+    font-style: normal;
+    font-size: 1em;
+    color: black;/* skrift for hele siden */
+    margin: 0; /* ingen margen */
+    padding: 0; /* ingen padding */
+} /* bodystyle slut mobile*/
+
+header {
+    background-color: gray; /* hovedet kan være en anden farve */
+    margin: 0.5em 0px; /* første er top og bund, anden er sider */
+    text-align: center;
+}
+
+#headertekst {
+    font-size: 2em;
+    font-family: rig-solid-bold-fill, sans-serif;
+    font-weight: 700;
+    font-style: normal;
+    color: black;
+
+}
+
+/* Menu dropdown start*/
+.navbar {
+  overflow: hidden;
+  background-color: black;
+  font-family: saffran, sans-serif;
+  font-weight: 300;
+  font-style: normal;
+
+}
+
+/* Links inside the navbar */
+.navbar a {
+  float: left;
+  font-size: 16px;
+  color: fuchsia;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+}
+
+/* The dropdown container */
+.dropdown {
+  float: left;
+  overflow: hidden;
+}
+
+/* Dropdown button */
+.dropdown .dropbtn {
+  font-size: 16px; 
+  border: none;
+  outline: none;
+  color: fuchsia;
+  padding: 14px 16px;
+  background-color: inherit;
+  font-family: inherit; /* Important for vertical align on mobile phones */
+  margin: 0; /* Important for vertical align on mobile phones */
+}
+
+/* Add a red background color to navbar links on hover */
+.navbar a:hover, .dropdown:hover .dropbtn {
+  background-color: black;
+}
+
+/* Dropdown content (hidden by default) */
+.dropdown-content {
+  display: none;
+  position: absolute;
+  background-color: black;
+  min-width: 160px;
+  box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
+  z-index: 1;
+}
+
+.dropdown-content1 {
+  display: none;
+  position: absolute;
+  background-color: black;
+  min-width: 160px;
+  box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
+  z-index: 1;
+}
+/* Links inside the dropdown */
+.dropdown-content a {
+  float: none;
+  color: fuchsia;
+  padding: 12px 16px;
+  text-decoration: none;
+  display: block;
+  text-align: left;
+}
+
+/* Add a grey background color to dropdown links on hover */
+.dropdown-content a:hover {
+  background-color: snow;
+}
+
+/* Show the dropdown menu on hover */
+.dropdown:hover .dropdown-content {
+  display: block;
+} /*menu dropdown slut*/
+
+h1 {
+    text-align: center;
+    font-size: 4em;
+} 
+
+img{
+    width: 100%;
+}
+
+#spv{
+    width: 100%;
+}
+
+q{
+    font-family: quiche-sans, sans-serif;
+    font-weight: 700;
+    font-style: italic;
+
+}
+
+
+}
+/* mobil slut */
+
+/* tablet*/
+@media screen and (min-width: 900px){
+body { 
+    background-color: blueviolet; /* baggrundsfarve */
+    font-family: saffran, sans-serif;
+    font-weight: 200;
+    font-style: normal;
+    font-size: 1em;
+    color: black;/* skrift for hele siden */
+    margin: 0; /* ingen margen */
+    padding: 0; /* ingen padding */
+} /* bodystyle slut mobile*/
+
+header {
+    background-color: blueviolet; /* hovedet kan være en anden farve */
+    margin: 0.5em 0px; /* første er top og bund, anden er sider */
+    text-align: center;
+}
+
+#headertekst {
+    font-size: 2em;
+    font-family: rig-solid-bold-fill, sans-serif;
+    font-weight: 700;
+    font-style: normal;
+    color: black;
+
+}
+
+/* Menu dropdown start*/
+.navbar {
+  overflow: hidden;
+  background-color: black;
+  font-family: saffran, sans-serif;
+  font-weight: 300;
+  font-style: normal;
+
+}
+
+/* Links inside the navbar */
+.navbar a {
+  float: left;
+  font-size: 16px;
+  color: fuchsia;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+}
+
+/* The dropdown container */
+.dropdown {
+  float: left;
+  overflow: hidden;
+}
+
+/* Dropdown button */
+.dropdown .dropbtn {
+  font-size: 16px; 
+  border: none;
+  outline: none;
+  color: fuchsia;
+  padding: 14px 16px;
+  background-color: inherit;
+  font-family: inherit; /* Important for vertical align on mobile phones */
+  margin: 0; /* Important for vertical align on mobile phones */
+}
+
+/* Add a red background color to navbar links on hover */
+.navbar a:hover, .dropdown:hover .dropbtn {
+  background-color: black;
+}
+
+/* Dropdown content (hidden by default) */
+.dropdown-content {
+  display: none;
+  position: absolute;
+  background-color: black;
+  min-width: 160px;
+  box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
+  z-index: 1;
+}
+
+.dropdown-content1 {
+  display: none;
+  position: absolute;
+  background-color: black;
+  min-width: 160px;
+  box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
+  z-index: 1;
+}
+/* Links inside the dropdown */
+.dropdown-content a {
+  float: none;
+  color: fuchsia;
+  padding: 12px 16px;
+  text-decoration: none;
+  display: block;
+  text-align: left;
+}
+
+/* Add a grey background color to dropdown links on hover */
+.dropdown-content a:hover {
+  background-color: snow;
+}
+
+/* Show the dropdown menu on hover */
+.dropdown:hover .dropdown-content {
+  display: block;
+} /*menu dropdown slut*/
+
+h1 {
+    text-align: center;
+    font-size: 4em;
+} 
+
+img{
+    width: 50%;
+}
+
+#spv{
+    width: 100%;
+}
+
+q{
+    font-family: rig-solid-light-fill, sans-serif;
+    font-weight: 300;
+    font-style: normal;
+
+
+} /*q*/
+
+    
+} /* tablet slut*/
+
+/* Desktop */
+@media screen and (min-width: 1100px){
+body { 
+    background-color: whitesmoke; /* baggrundsfarve */
+    font-family: halyard-micro, sans-serif;
+    font-weight: 400;
+    font-style: normal;
+
+    font-size: 1em;
+    color: black;/* skrift for hele siden */
+    margin: 1em; /* 1 margen */
+    padding: 0; /* ingen padding */
+} /* desktop body slut*/
+
+header {
+    background-color: whitesmoke; /* hovedet skal være en anden farve */
+    margin: 0.5em 0px; /* første er top og bund, anden er sider */
+    text-align: center;
+}
+
+#headertekst {
+    font-size: 2em;
+    font-family: rig-solid-bold-fill, sans-serif;
+    font-weight: 700;
+    font-style: normal;
+    color: black;
+
+}
+
+h1 {
+    text-align: center;
+    font-size: 4em;
+} 
+
+img{
+    width: 100%;
+}
+    
+/* grid på forsiden start */
+#gridside1{
+    display: grid;
+   grid-template-columns: 1fr 1fr 1fr;
+    grid-template-rows: 15em 20em 1fr;
+    grid-template-areas: 
+       "os1 os1 os1"
+        "mlog b1 b1"
+        "b2 b2 port"
+}
+
+#b1{
+    grid-area: b1;
+    font-size: 1.5em;
+}
+
+#b2{
+    grid-area: b2;
+    font-size: 1.5em;
+}
+
+#port{
+    grid-area: port;
+    
+}
+
+#mlog{
+        grid-area: mlog;
+    }
+
+#os1{
+    grid-area: os1;
+}/* grid på forsiden slut*/
+
+/* Grid Om Mig */
+#gridommig{
+    display: grid;
+   grid-template-columns: 1fr 1fr;
+    grid-template-rows: 1fr 1fr;
+    grid-template-areas: 
+        "wme mierix1"
+        "mierix2 mrk"
+    
+    }
+    
+    #wme{
+        grid-area: wme;
+    }
+    #mrk{
+        grid-area: mrk;
+    }
+    #mierix1{
+        grid-area: mierix1;
+    }
+    #mierix2{
+        grid-area: mierix2;
+    }
+
+/* grid på side5 billeder design thinking start*/
+#billederonegrid{
+    display: grid;
+   grid-template-columns: 1fr 1fr 1fr 1fr;
+    grid-template-rows: 1fr;
+    grid-template-areas: 
+       "ud ide pro bop";
+        
+       
+} /*billederonegrid*/
+#ud{
+    grid-area: ud;
+}
+
+#ide{
+    grid-area: ide;
+}
+#pro{
+    grid-area: pro;
+}
+#bop{
+    grid-area: bop;
+}
+
+/* grid på side5 billeder design thinking slut*/
+    
+/* onepage biller*/    
+    #mobileone{
+        width: 200px;
+        height: 200px;
+    }
+    #tabletone{
+        width: 200px;
+    }
+    #desktopone{
+        width: 200px;
+    }
+/* onepage biller SLUT*/ 
+q{
+    font-family: quiche-sans, sans-serif;
+    font-weight: 700;
+    font-style: italic;
+
+}
+    /* Grid historie timen start */
+    #gridhistorie{
+        display: grid;
+        grid-template-columns: 1fr 1fr ;
+        grid-template-rows: 1fr 1fr 1fr 1fr 1fr;
+        grid-template-areas: 
+            "his1 interbillede"
+            "interbillede2 his2"
+            "his3 his4"
+            "his5 interbillede3"
+            "his6 his7"
+    }
+    
+    #his1{
+        grid-area: his1;
+    }
+    #his2{
+        grid-area: his2;
+    }
+    #his3{
+        grid-area: his3;
+    }
+     #his4{
+        grid-area: his4;
+    }
+     #his5{
+        grid-area: his5;
+    }
+    #his6{
+        grid-area: his6;
+    }
+    #his7{
+        grid-area: his7;
+    }
+    
+    #interbillede{
+        grid-area: interbillede;
+    }
+    
+    #interbillede2{
+        grid-area: interbillede2;
+    }
+    
+    #interbillede3{
+        grid-area: interbillede3;
+    }
+    /* Grid historie timen slut */
+} /* desktop slut*/
+
+footer{
+    
+    font-family: quiche-sans, sans-serif;
+    font-weight: 400;
+    font-style: italic;
+
+
+}
+

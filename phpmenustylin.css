@@ -1,0 +1,39 @@
+/* styling af menuen start*/
+
+ul {
+    list-style-type: none; /* vi fjerner symboler for hvert punkt */
+    margin: 0;
+    padding: 0;
+    overflow: hidden; /* så evt. længere tekst ikke ryger ud af boksen */
+    background-color: whitesmoke; 
+}
+
+li {
+    float: left; /* hvert element skal flyde til venstre */
+    text-align: center;
+    
+}
+
+li a {
+    display: block; /* elementet skal opføre sig som en blok */
+    width: 9em; /* bredde */
+    color: black;
+    padding: 0.5em 0.1em; /* forskellig padding på vandrette og lodrette flader */
+    text-decoration: none; /* væk med understregning */
+   font-family: rig-solid-medium-fill, sans-serif;
+font-weight: 500;
+font-style: normal;
+
+
+}
+
+li a:hover { /* og lidt anderledes styling når man hover */
+    background-color: black;
+    color: white;
+}
+
+
+li a:hover { /* og lidt anderledes styling når man hover */
+    background-color: black;
+    color: white;
+} /* styling af menuen slut*/
