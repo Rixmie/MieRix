@@ -44,7 +44,8 @@
         <section id="b2">
         <p>Denne hjemmeside er opbygget på det grundlag at den skal vise hvad jeg har lært igennem det 1. semester på Multimediedesigner uddannelsen på Erhvervsakadamiet Dania i Skive. <br>
         Siden vil efter 1 semester eksamen være et opslagsværk for mig selv som jeg vil kunne bruge gennem hele uddannelsen og kunne bygge videre på. <br>
-        På siden herover vil i finde menuen som er opdelt i hvad jeg har gennem gået på det første semester samt hvordan arbejdet med opbygningen af denne hjemmeside har været og en lille begrebsordbog med de fagbegreber som der er i brug på hele sitet. <br>
+        På siden herover vil i finde menuen som er opdelt i hvad jeg har gennem gået på det første semester samt hvordan arbejdet med opbygningen af denne hjemmeside har været dette findes.<br>
+        på siden "om mig" i menuen finder i en beskrivelse af hvem jeg er og hvad jeg har lavet førhen. 
         <br>
         <br>
         </p>

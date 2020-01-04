@@ -28,6 +28,7 @@
         <!-- php menu -->
         <section id="gridommig">
         <section id="mierix1">
+        <h2>Hvem er det her så?</h2>
         <p> Mit navn er Mie Rix, jeg er 25 år og går på Multimediedesigneren (MMD) på Erhvervsakademiet Dania i Skive (EA Dania Skive). <br>
         <br>
         <br>
@@ -40,7 +41,7 @@
         Jeg har fra maj 2015 og frem til August 2018 arbejdet på Kebabhuset Amore i Skive både som udbringer og tjener så jeg har kender til kundehåndtering ikke kun i teori igennem min uddannelse inden for detail og kontor på EUD/EUX men også i praktsis bad disken i det virkelig liv. <br>
         <br>
         <br>
-        Jeg er mor til en knægt på et år han ses på billedet sammen med mig på vores julekort, vi er bo sat i Skive i et rolig kvarter i midtbyen.</p>
+        Jeg er mor til en knægt på et år han ses på billedet sammen med mig på vores julekort som er taget af en klassekammerat på skolen hvor jeg selv har rettet til med lys osv. i Photoshop.</p>
         </section> <!-- Mierix1-->
         
         <img src="WilliamogmorESJ-kopi.jpg" id="wme" alt="minbuffas og jeg">

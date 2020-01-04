@@ -117,7 +117,8 @@
         <p>billede af det Hvide hus hjemmeside anno 1996 taget som skærmbillede fra PDF filen Online Kommunikation – EN INTRODUKTION</p>
         <img src="Dethvidehushjemmeside.png" id="interbillede" alt="det hvide hus hjemmeside fra online kommunikation pdf">
         
-        
+        <h2>Billeder på teori på MMD</h2>
+         <a href="https://images.app.goo.gl/MFXhGj47n67GRrLz8">https://images.app.goo.gl/MFXhGj47n67GRrLz8</a><br><p>billede af farvehjulet fundet den 4 januar 2020 på Google søgning</p>
 
 
     </body>
