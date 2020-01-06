@@ -2,8 +2,8 @@
 /* styling af body start */
 @media screen and (min-width: 400px){
 body { background-color: gray; /* baggrundsfarve */
-    font-family: saffran, sans-serif;
-    font-weight: 200;
+    font-family: halyard-text, sans-serif;
+    font-weight: 400;
     font-style: normal;
     font-size: 1em;
     color: black;/* skrift for hele siden */
@@ -134,9 +134,9 @@ q{
 /* tablet*/
 @media screen and (min-width: 900px){
 body { 
-    background-color: blueviolet; /* baggrundsfarve */
-    font-family: saffran, sans-serif;
-    font-weight: 200;
+    background-color: snow; /* baggrundsfarve */
+    font-family: halyard-text, sans-serif;
+    font-weight: 400;
     font-style: normal;
     font-size: 1em;
     color: black;/* skrift for hele siden */
@@ -145,7 +145,7 @@ body {
 } /* bodystyle slut mobile*/
 
 header {
-    background-color: blueviolet; /* hovedet kan være en anden farve */
+    background-color: snow; /* hovedet kan være en anden farve */
     margin: 0.5em 0px; /* første er top og bund, anden er sider */
     text-align: center;
 }
@@ -197,7 +197,7 @@ header {
   margin: 0; /* Important for vertical align on mobile phones */
 }
 
-/* Add a red background color to navbar links on hover */
+/* Add a  background color to navbar links on hover */
 .navbar a:hover, .dropdown:hover .dropbtn {
   background-color: black;
 }
@@ -230,7 +230,7 @@ header {
   text-align: left;
 }
 
-/* Add a grey background color to dropdown links on hover */
+/* Add a  background color to dropdown links on hover */
 .dropdown-content a:hover {
   background-color: snow;
 }
@@ -246,7 +246,7 @@ h1 {
 } 
 
 img{
-    width: 50%;
+    width: 100%;
 }
 
 #spv{
@@ -261,7 +261,7 @@ q{
 
 } /*q*/
 
-    
+  
 } /* tablet slut*/
 
 /* Desktop */
@@ -334,9 +334,9 @@ img{
 
 #os1{
     grid-area: os1;
-}/* grid på forsiden slut*/
+}/* grid på forsiden SLUT*/
 
-/* Grid Om Mig */
+/* Grid Om Mig START*/
 #gridommig{
     display: grid;
    grid-template-columns: 1fr 1fr;
@@ -359,8 +359,290 @@ img{
     #mierix2{
         grid-area: mierix2;
     }
+/*grid om mig SLUT */
 
-/* grid på side5 billeder design thinking start*/
+/* grid teori på MMD START */
+#gridteori{
+    display: grid;
+   grid-template-columns: 1fr 3em 1fr;
+    grid-template-rows: 5em/*fav 1*/ 10em/*fav1 2*/ 5em/*favehj 3*/ 40em/*favehj1 og farvehb 4*/ 10em/*favkil 5*/ 10em/*favepy 6*/ 40em/*farvepyt og farvepyb 7*/ 5em/*favbl 8*/ 40em/*blaabil og favbl1 9*/ 5em/*favred 10*/ 40em/*favred1 og redbil11*/ 5em/*favgul 12*/ 40em/*gulbil og favgul1 13*/ 5em/*favgreen 14*/ 40em/*favgreen1 og greenbil 15*/ 5em /*favlilla 16*/ 40em/*lillabil og favlilla1 17*/ 5em/*favorange 18*/ 40em/*favorange1 og orangebil 19*/ 5em/*ophav 20*/ 35em/*ophav1 og ophavb 21*/ 40em/*ophav3 22*/ 5em/*lic 23*/ 30em/*lic1 og licb 24*/ 10em/*... 25*/ 5em/*copyhed 26*/ 1fr/*copy1 og copyb 27*/;
+    grid-template-areas: 
+        "fav fav fav" 
+        "fav1 fav1 fav1" 
+        "favehj favehj favehj" 
+        "farvehb favehj1 favehj1" 
+        "favkil favkil favkil" 
+        "farvepy farvepy farvepy" 
+        "farvepyt farvepyt farvepyb"
+        "favbl favbl favbl"
+        "blaabil favbl1 favbl1" 
+        "favred favred favred" 
+        "favred1 favred1 redbil"
+        "favgul favgul favgul" 
+        "gulbil favgul1 favgul1" 
+        "favgreen favgreen favgreen" 
+        "favgreen1 favgreen1 greenbil"
+        "favlilla favlilla favlilla"
+        "lillabil favlilla1 favlilla1"
+        "favorange favorange favorange" 
+        "favorange1 favorange1 orangebil"
+        "ophav ophav ophav"
+        "ophavb ophav1 ophav1"
+        "ophav3 ophav3 ophav3"
+        "lic lic lic"
+        "lic1 lic1 licb" 
+        ". . ." 
+        "copyhed copyhed copyhed"
+        "copyb copy1 copy1"
+        
+    }
+    
+    #fav{
+        grid-area: fav;
+    }
+    
+    #fav1{
+        grid-area: fav1;
+    }
+    
+    #favehj{
+        grid-area: favehj;
+    }
+    
+    #favehj1{
+        grid-area: favehj1;
+    }
+    
+    #farvehb{
+        grid-area: farvehb;
+    }
+    
+    #ophav{
+        grid-area: ophav;
+    }
+    
+    #ophav1{
+        grid-area: ophav1;
+    }
+    
+    
+    #ophav3{
+        grid-area: ophav3;
+    }
+    
+   #lic{
+        grid-area: lic;
+    }
+    
+    #lic1{
+        grid-area: lic1;
+    }
+    
+    #copyhed{
+        grid-area: copyhed;
+    }
+    
+    #copy1{
+        grid-area: copy1;
+    }
+    
+    #ophavb{
+        grid-area: ophavb;
+    }
+    
+    #licb{
+        grid-area: licb;
+    }
+    
+    #copyb{
+        grid-area: copyb;
+        
+    }
+    #favkil{
+        grid-area: favkil;
+    }
+    
+    #farvepy{
+        grid-area: farvepy;
+    }
+    #farvepyt{
+        grid-area: farvepyt;
+    }
+    #favbl{
+        grid-area: favbl;
+    }
+    #favbl1{
+        grid-area: favbl1;
+    }
+    #favred{
+        grid-area: favred;
+    }
+    #favred1{
+        grid-area: favred1;
+    }
+    #favgul{
+        grid-area: favgul;
+    }
+    #favgul1{
+        grid-area: favgul1;
+    }
+    #favgreen{
+        grid-area: favgreen;
+    }
+    #favgreen1{
+        grid-area: favgreen1;
+    }
+    #favlilla{
+        grid-area: favlilla;
+    }
+    #favlilla1{
+        grid-area: favlilla1;
+    }
+    #favorange{
+        grid-area: favorange;
+    }
+    #favorange1{
+        grid-area: favorange1;
+    }
+    
+    #blaabil{
+        grid-area: blaabil;
+    }
+    #redbil{
+        grid-area: redbil;
+    }
+    #greenbil{
+        grid-area: greenbil;
+    }
+    #gulbil{
+        grid-area: gulbil;
+    }
+    #lillabil{
+        grid-area: lillabil;
+    }
+    #orangebil{
+        grid-area: orangebil;
+    }
+    
+    #farvepyb{
+        grid-area: farvepyb;
+    }
+    
+    
+    
+/*Grid på teori på MMD SLUT*/
+
+/*Grid på programmer på MMD START*/     
+
+    #gridprogrammer{
+    display: grid;
+   grid-template-columns: 1fr 1fr;
+    grid-template-rows: 5em/*Aiover*/ 15em/*AItekst*/ 48em/*atrb og artbtekst*/ 40em/*stjernetekst og stjerne*/ 48em/*superb og supertekst*/ 5em/*onepagetekst*/ 48em/*ai1 og ai2*/ 48em/*ai3 og ai4*/ 5em/*psover*/ 20em/*pstekst*/ 5em/*GitHubover*/ 20em/*GitHubtekst*/ 5em/*brackersover*/ 20em/*brackerstekst*/ 5em/*sparkover*/ 1fr/*sparktekst*/;
+    grid-template-areas: 
+    "Aiover Aiover"
+    "Aitekst Aitekst"
+    "artb artbtekst"
+    "stjernetekst stjerne"
+    "superb supertekst"
+    "onepageAitekst onepageAitekst"
+    "ai1 ai3"
+    "ai2 ai4"
+    "psover psover"
+    "pstekst pstekst"
+    "GitHubover GitHubover"
+    "GitHubtekst GitHubtekst"
+    "brackersover brackersover"
+    "brackerstekst brackerstekst"
+    "sparkover sparkover"
+    "sparktekst sparktekst"
+    }
+
+    #Aiover{
+        grid-area: Aiover;
+    }
+    
+    #Aitekst{
+        grid-area: Aitekst;
+    }
+    
+    #artb{
+        grid-area: artb;
+    }
+    
+    #artbtekst{
+        grid-area: artbtekst;
+    }
+    
+    #stjerne{
+        grid-area: stjerne;
+    }
+    
+    #stjernetekst{
+        grid-area: stjernetekst;
+    }
+    
+    #superb{
+        grid-area: superb;
+    }
+    
+    #supertekst{
+        grid-area: supertekst;
+    }
+        
+    #onepageAitekst{
+        grid-area: onepageAitekst;
+    }
+    
+    #ai1{
+        grid-area: ai1;
+    }
+    
+    #ai2{
+        grid-area: ai2;
+    }
+    
+    #ai3{
+        grid-area: ai3;
+    }
+    
+    #ai4{
+        grid-area: ai4
+    }
+    
+    #psover{
+        grid-area: psover;
+    }
+    
+    #pstekst{
+        grid-area: pstekst;
+    }
+    
+    #brackersover{
+        grid-area: brackersover;
+    }
+    
+    #brackerstekst{
+        grid-area: brackerstekst;
+    }
+    
+    #GitHubover{
+        grid-area: GitHubover;
+    }
+    
+    #GitHubtekst{
+        grid-area: GitHubtekst;
+    }
+    
+    #sparkover{
+        grid-area: sparkover;
+    }
+    
+    #sparktekst{
+        grid-area: sparktekst;
+    }
+    
+/*Grid på programmer på MMD Slut*/    
+/* grid på siden projekter billeder i design thinking start*/
 #billederonegrid{
     display: grid;
    grid-template-columns: 1fr 1fr 1fr 1fr;
@@ -384,7 +666,7 @@ img{
     grid-area: bop;
 }
 
-/* grid på side5 billeder design thinking slut*/
+/* grid på siden projekter billeder i design thinking slut*/
     
 /* onepage biller*/    
     #mobileone{

@@ -37,8 +37,9 @@
         <h2>Projekt om Tabeller i HTML og CSS</h2>
         <p>
         Her er den siden som jeg med en anden klassekarmart har kodet til et fælles opslagsværk for klassen med beskrivelser til tabeller samt styleing af disse. <br>
-        link:
+        Hvis i højere klikker på linket kan i åbne det i en ny fane da denne ikke ligger på serverne som denne side ligger på.
         </p>
+         <a href="http://emil1681.apache.eadania.dk/html/tablefull.html?fbclid=IwAR0nxpqgaWjaLCk7AaI2sXO4O6UbT20Bq7w5aSvtcwiSkM2rMowGnUB5VWs">opslagsværk om tabeller</a>
         <!-- tabeller projektet slut-->
         <!-- gestaltlovene start-->
         <h2> Adobe Illustrator Gestalt lovene </h2>
