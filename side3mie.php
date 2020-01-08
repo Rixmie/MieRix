@@ -86,7 +86,47 @@
         Den orange farve er en farve som er dynamisk da den forbindes med energi, ungdom og spænding. Den giver en uformel stemning hvilket gør at den skaber mulighed for leg som ikke er passende til alle sammenhæng, men i USA bruges denne farve ofte til vise discountprodukterne på den samme måde som vi gør det i Danmark med den gule.
         </p><!--favred1-->
         <img src="orangebillede.jpg" id="orangebil" alt="puslespil orange">
+            
+        <h2 id="farveharmoni"> Farveharmoni</h2>
+        <p id="farveharmonitekst">Når der skal udvælges farver, er det vigtigt man som designer husker på at farver er en subjektiv oplevelse og ikke alle har samme smag hvad farver angår, derfor er det vigtigt at stole på sine egne sanser når farverne skal sammensættes.<br>
+        Men der findes nogle metoder hvor man kan bruge farvecirklen hvor der ligger noget mere end ”jeg kan lig denne farve” bag valget af farver.
+        <br>
+        Man kan f.eks. vælge det som kaldes komplementærfarver hvilket er de farver som står lige overfor hinanden i farvecirklen og giver dermed også en høj farve kontrast.
+        <br>
+        En anden man kan bruge, er analog farver det er de farver som er ”naboer” til hinanden i farvecirklen, denne form for kombination af farverne danner med lav farvekontrast et harmonisk udtryk.
+        <br>
+        Den sidste man kan bruge ud fra farvecirklen, er det som kaldes for triadiske farver, her går man efter farver som der er lige stor afstand imellem. Denne metode til farve valg kan give vandskeligheder når farverne skal balanceres i et interface design men den giver også en forholdsvis høj farve kontrast i mellem dem.
+        <br>
+        <br>    
+        (kilder til farver:kapitel 17 i interfacedesign bogen.)    
+        </p>
+            
+         <img src="farveharmonibillede.png" id="farveharmonibill" alt="de 3 farev udvælgelses metoder">
         <!-- farvepyskologi slut-->
+            
+        <h2 id="typografiover">Typografi</h2>
+        <p id="typotekst">Typografi betyder ifølge Politikens retskrivnings- og betydningsordbog <q> bogtryk, bogtrykkerkunst</q> og det er fordi at det var synonymet for disse to ting frem til 1900-tallet ca. hvor det den dag i dag har <q> betegnelse alene for satsfremstilling, herunder den grafiske formgivning (tilrettelæggelsen) af trykarbejdet, indskrivning af teksten (sætningen) samt ombrydning af satsen til færdige sider med placering af evt. illustrationer; denne sidste arbejdsgang hed montage i tidsrummet forud for de elektronisk styrede trykmetoder. Hele satsfremstillingsprocessen kaldes nu ofte prepress. (http://denstoredanske.dk/Kunst_og_kultur/Bog-_og_biblioteksvæsen/Boghistorie_og_bogtryk/typografi) </q> når man slår ordet op på nettet under den store danske. <br>
+        Typografi er et meget omfattende emne når man kigger rundt på nettet for at slå betydningen op af selve ordet men den del af typografien som jeg vil forklare mere om, er det som alle efterhånden kender som skrifttyper.<br> 
+        Der findes flere forskellige skrifttyper og de kan alle deles op i forskellige klasser, de mest udbredte måde at klassificere skrifttyper på er ved navnene serif (antikvaskrifter) eller Sans serif (groteskskrifter) disse er som sagt de mest udbredte der findes også nogle skrifttyper som ikke falder ind under disse to betegnelser disse skrifttyper går under kategorien Monospace.
+        </p>
+        <img src="typografibillede.jpg" id="typobill" alt="typografibillede bog gammel">
+        
+        <h2 id="serifover">Serif</h2>
+        <p id="seriftekst">Skrifttyper som går under kategorien Serif er de skrift typer som der har små vandrette ”fødder” disse skrifttypers ”fødder” er et levn som stammer fra den gang der blev skrevet med hammer og mejsel eller pen og blæk, men selvom denne form for skrifttype udspringer af da skriveredskaber gav udfordringer så er denne form for skrifttype ikke dum at bruge den giver tilgengæld rigtig meget mening at bruge særligt når der skal laves store tekstmængder som skal læses, da vi som mennesker ikke læser hver enkel bogstav men vi genkender den form som de danner når de står sammen i ord, samtidig gør ”fødderne” eller serifferne at der dannet en vandret linje som gør at læserne har nemmer ved at læse teksten og  følge linjerne.</p>
+        
+        <h2 id="sansserifover">Sans serif</h2>
+        <p id="sansseriftekst">Skrifttyperne Sans serif har navnet som opstår fra det franske ord sans som har den oversatte betydning ”uden” og denne skrifttype er ganske enkel uden ”fødder” eller seriffer, dem som der ellers ofte er med denne form for skrifttype, er at de har den samme streg tykkelse overalt på bogstaverne og dette er med at forstærke det enkelte udtryk denne skrifttype har. <br>
+        Denne form for skrifttype fungerer godt til korte tekstmængder som skal være klare og tydelige i det budskab de skal bringe. 
+ </p>
+            
+        <h2 id="monospaceover">Monospace</h2>
+        <p id="monospacetekst">Monospace skrifttyper er dem som har nogle særlige karaktertræk som er unikke dog tager alle bogstaverne den samme mængde plads når de skrives.<br>
+        Denne form for skrifttype kan kun i få tilfælde være en fordel at anvende som f.eks. hvis man ønsker bogstaverne i en mindre tekst hvor man ønsker bogstaverne fremstår tydeligt frem for letlæselig.
+        <br>
+        <br>
+        (kilder for typografi: Kapitel 16 i interfacedesign bogen)
+        </p>
+        <!-- typografi slut -->
         
         <h2 id="ophav">Ophavsret</h2>
         <p id=ophav1> Ophavsret i Danmark er en lovgivning som er med til at sikre mod tyveri af både digitale og fysiske medier det vil sige at man ikke må kopiere et billede, en tekst et design eller en video uden tilladelse fra ophavsretshaveren.(kilde: http://www.jura-guide.dk/ophavsret)  <br>
@@ -120,7 +160,7 @@
         <h2 id="copyhed">Copyright</h2>
         <p id="copy1">Copyright er det engelsk ord for ophavsret (kilde: https://ejura.dk/selskabsret/copyright-ophavsret-regler/ fundet den 6/11 2019 kl.13.52) <br> 
         Ordet copyright har dog et symbol som følger med men dette symboler bruges også ofte i forbindelse når hjemmesider eller andre vil vise de har ophavsretten på deres ting eller kreationer i form af medier osv.<br>
-        Symboler som der betyder Copyright er meget enkelt designet med et C med en cirkel rundt om det ser så ledes ud -> ® <br>(kilde: https://ejura.dk/selskabsret/copyright-ophavsret-regler/ fundet den 6/11 2019 kl.13.52) <br>
+        Symboler som der betyder Copyright er meget enkelt designet med et C med en cirkel rundt om det ser så ledes ud -> &#169;<!-- cirkel med c inden i mærket kan skrives med &#169; eller som &copy; --><br>(kilde: https://ejura.dk/selskabsret/copyright-ophavsret-regler/ fundet den 6/11 2019 kl.13.52) <br>
         De steder hvor vi som Multimediedesignere vil kunne støde på copyright vil være på hjemmesider, billeder, tekster, koder både i form af HTML og CSS kodning hvis vi skulle bruge noget af dette i forhold de opgaver som vi vil kunne få stillet fra kunder eller underviser. <br>
         I den digitale tidalder som vi er i den dag i dag, så stiller det tilbage med et spørgsmål om man altid skal spørge om lov til at bruge en andens værk i forhold til Copyright? <br>
         Det skal man, dog med undtagelserne privat brug eller undervisning forman må godt kopiere billeder, tekster, bøger (kunsteriske værker) i denne forbindelse (kilde: https://ejura.dk/selskabsret/copyright-ophavsret-regler/ fundet den 6/11 2019 kl.13.52)</p>
@@ -128,6 +168,29 @@
         <img src="copyrightbillede.jpg" id="copyb" alt="Copyright billede med ord/tekst">
             
         <!-- copyright slut -->
+            
+        <h2 id="kkempiri">Kvantitiv eller kvalitativ empiri</h2>
+        
+        <p id="kkemptekst">Kvanitativ og kvalitativ empiri er en opdeling af hvordan hvilken slags information men ønsker at opnå ved forskellige undersøgelser. Den kvantitive emperi er overordnet information som kan måles og vejes hvor i mod den kvalitative empiri er mere dybtgående og indeholder ofte mere end den information som man gerne vil have. <br>
+        Der findes forskellige måde hvor på man kan indhente de forskellige informationer alt efter hvilken empiri man ønsker.  Her kommer der lidt mere om de undrsøgelser for dette og hvornår det bedst kan svare sig og bruge den kvantative frem for den kvliatative og omvendt.
+        </p>
+        
+        <h3 id="kvatiover">Kvantitative undersøgelser</h3>
+        <p id="kvantitekst">Kvantitativ undersøgelse er en måde hvorpå man kan indsamle data når man ønsker disse skal være målbare. De data som der indsamles ved en kvantitativ undersøgelse vil være uden brugerens personlige holdninger og kommunikationen ved denne metode vil som oftest være envejskommunikation forstået på den måde at det er den/dem som lavber undersøgelsen som styre svarene som f.eks. ved at spørgeskema hvor der kun er x antal valgmuligheder.<br>
+        en styrke ved denne metoder er at det er hurtigt og nemt at nå ud til flere respontenter samt at denne metode ikke kræver lige så meget tid og mandskab for at blive gennemfør og man står med nogle data som man kan måle efter og på den måde lave nogle nye mål for hvad man nu har undersøgt som f.eks. hvis det var om reklamer ville man hurtigt stå med at overblik over hvad målgruppen syntes er reklamer som er tiltrækkende.<br>
+        En svaghed ved denne metode er at det er ikke en metode som giver et hundrede procent billede af virkeligheden da nogle respondenter ikke vil give de hunderede procent korrekte svar forstået på den måde at ikke alle respondenter giver det som de virkelig tænker da de bare hurtigt vil have undersøgelsen overstået.<br>
+        Der findes flere forskellige måde hvorpå man kan lave en kvantitativ undersøgelse, dog indebærer de dog spørgeskema enten om det er online, telefonisk eller ansigt til ansigt hvor ved at respondenten ikke sætter egne ord på svarene.  
+        </p>
+            
+        <h3 id="kvaliover">Kvalitative undersøgelser</h3>
+        <p id="kvalitekst">Kvalitativ undersøgelse er en måde hvor på man kan samle data hvor man har brug for mere ende bare at respondenten krydser af på et spørgeskema, disse undersøgelser vil som oftest være i form af interview, fokusgrupper eller med observationsstudier hvor den/dem som undersøger kan være med hele vejen. Det som kan være svært ved at lave denne form for undersøgelse, er at man skal tilpasse spørgsmålene og på forhånd havde fast sat en struktur så der ikke kommer til at være <br>
+        En styrke ved denne metode er at det giver et bedre billede af virkeligheden da det ikke kun er ud fra undersøgerens spørgsmål man kan konkludere men også på hvordan respondenterne reagere ikke kun ved ord men også ved deres kropssprog.<br>
+        En svaghed ved denne form for undersøgelser er at det er svært og gøre målbart med de data som der kommer ind fra disse da det ikke kun er et svar men det er respondenterens holdninger og meninger som der kommer med i spil.
+        </p>
+        
+        <h3 id="forover">Hvornår kan man med fordel bruge de forskellige metoder</h3>
+        <p id="fortekst">Det kan være en fordel at bruge en kvalitativ metode når man skal lave en bruger undersøgelse som hvis man skal finde ud af hvordan man skaber den bedst bruger oplevelse hvorimod det vil være lettere hvis der skal undersøges ting som sortiement på en hjemmeside eller i en virksomhed at bruge en kvantatitiv undersøgelse.
+        </p>
 
         </section> <!-- gridteori slut-->
         

@@ -29,7 +29,7 @@
         
         <h1>Denne Hjemmeside </h1> <!-- overskrift-->
         <!--intro -->
-        <p> her vil i kunne læse om hvordan opbygningen af denne hjemmeside har været samt hvilke tanker som er gået igennem hovedet på mig under tilblivelsen af denne portfolio.
+        <p>Her vil i kunne læse om hvordan opbygningen af denne hjemmeside har været samt hvilke tanker som er gået igennem hovedet på mig under tilblivelsen af denne portfolio.
         </p>
         <!--intro slut-->
         <!-- beskrivelse af min husk det NU viden -->
@@ -50,15 +50,18 @@
         
         <!-- processen slut -->
         <h2>kodningen</h2>
-        <p> Hjemmesiden er grundlæggende kodet som almindelig HTML men dette er i en php kode da jeg fandt dette nemmere da jeg ville embette en menu med det udseende som jeg ønskede den skulle være på de forskellige responsite statider.
-        
+        <p> Hjemmesiden er grundlæggende kodet som almindelig HTML men dette er i en php kode da jeg fandt dette nemmere da jeg ville embette en menu med det udseende som jeg ønskede den skulle være på de forskellige responsite statider.<br>
+        Alt styleingen forgår i CSS kodningen.<br>
+        Alle fonts er fundet igennem Adobe fonts og er lavet som et stylesheet der hentes over Adobe Creative Cloud <br>
+        Link til stylesheet Adobe fonts:  <link rel="stylesheet" href="https://use.typekit.net/jgp7olx.css">
+
         </p>
         <!-- kodningen SLUT -->
         <h2>Logbogen</h2>
         <p>
-        min logbog nåede og trække sig fra den 2 dec. til den 11 dec. 2019 før dette faldt til jorden. <br>
+        Min logbog nåede og trække sig fra den 2 dec. til den 11 dec. 2019 før dette faldt til jorden.<br>
         <br>
-        her vil i kunne læse den: <br>
+        Her vil i kunne læse den: <br>
         <br>
         Mandag 2 dec. 2019<br>
         Dagen er blevet brugt på at høre omkring opgaven samt finde relevant information som kan bruges i denne. <br>
@@ -89,7 +92,10 @@
         </p>
         
         <h2>Reflektion</h2>
-        <p>igennem arbejdet med denne side og gennem gangen af de opgaver og projekter som jeg har gennem gået her på det første semester så må jeg erkende at der er flere ting som jeg skal have genopfrisket noget mere og flere ting som jeg skal ind og have "leget" med for at få mere styr på de forskellige muligheder som både programmer og koder kan give ikke kun til hjemmesider men også til de opgaver der er aflever og som der bliver stillet.</p>
+        <p>Igennem arbejdet med denne side og gennem gangen af de opgaver og projekter som jeg har gennem gået her på det første semester så må jeg erkende at der er flere ting som jeg skal have genopfrisket noget mere og flere ting som jeg skal ind og have "leget" med for at få mere styr på de forskellige muligheder som både programmer og koder kan give ikke kun til hjemmesider men også til de opgaver der kommer til at skal aflevers fremadrette.<br>
+        En anden opdagelse om jeg har gjort i denne opgave er at jeg personlig selv skal være bedre til at få koordineret mine back-up planer med dem som er involveret i dem, fordi med et sygt barn og andre ting som kollapser i dagligdagen når man har en større opgave der skal laves og man førhen altid har kunne overholde den første tidsplan man har lagt giver dette nogle udfordringer som ikke har hjulpet når man ikke bryder sig om at midste kontrollen på nogle måde når det gælder ens uddannelse og de opgaver der er i den.<br>
+        Jeg har fået fyldt flere ting i min rygsæk både af personlig erfaringer og mest af alt har jeg fået fyldt mere i med faglige erfaringer i denne opgave og jeg har opdaget at det med at vide havd tingene gør når man sidder med dem kontra at skulle forklare hvad det vil sige er en øvelse som der skal arbejdes meget mere med og jeg ser frem til flere udfordringer som kan berige mig med endnu mere forståelse men også med erfaring som jeg kan give videre og der med også på sigt ville kunne forklare både koderne men også valgene bag både design og opsætning med en faglighed som en multimediedesigner skal kunne i det virkelig arbejdsliv.
+        </p>
 
     </body>
     <footer>

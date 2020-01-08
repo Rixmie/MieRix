@@ -306,7 +306,7 @@ img{
 #gridside1{
     display: grid;
    grid-template-columns: 1fr 1fr 1fr;
-    grid-template-rows: 15em 20em 1fr;
+    grid-template-rows: 15em 25em 1fr;
     grid-template-areas: 
        "os1 os1 os1"
         "mlog b1 b1"
@@ -360,12 +360,63 @@ img{
         grid-area: mierix2;
     }
 /*grid om mig SLUT */
-
+    
+/* Grid HTML og CSS kort fortalt START*/
+#gridhtmlcss{
+    display: grid;
+   grid-template-columns: 1fr 1fr;
+    grid-template-rows: 5em/*htmlover*/ 40em/*htmltekst*/ 5em/*cssover*/ 35em/*csstekst*/ 5em/*noterover*/ 35em/*notertekst*/ 5em/*gridover*/ 1fr/*gridtekst og gridbil*/;
+    grid-template-areas: 
+        "htmlbill htmlover"
+        "htmlbill htmltekst" 
+        "cssover cssover"
+        "csstekst csstekst"
+        "noterover notebill"
+        "notertekst notebill"
+        "gridbil gridover"
+        "gridbil gridtekst"
+    }
+    
+    #gridbil{
+        grid-area: gridbil;
+    }
+    #gridtekst{
+        grid-area: gridtekst;
+    }
+    
+    #gridover{
+        grid-area: gridover;
+    }
+    #notertekst{
+        grid-area: notertekst;
+    }
+    #noterover{
+        grid-area: noterover;
+    }
+    
+    #notebill{
+        grid-area: notebill;
+    }
+    #csstekst{
+        grid-area: csstekst;
+    }
+    #cssover{
+        grid-area: cssover;
+    }
+    #htmltekst{
+        grid-area: htmltekst;
+    }
+    #htmlover{
+        grid-area: htmlover;
+    }
+    #htmlbill{
+        grid-area: htmlbill;
+    }
 /* grid teori på MMD START */
 #gridteori{
     display: grid;
    grid-template-columns: 1fr 3em 1fr;
-    grid-template-rows: 5em/*fav 1*/ 10em/*fav1 2*/ 5em/*favehj 3*/ 40em/*favehj1 og farvehb 4*/ 10em/*favkil 5*/ 10em/*favepy 6*/ 40em/*farvepyt og farvepyb 7*/ 5em/*favbl 8*/ 40em/*blaabil og favbl1 9*/ 5em/*favred 10*/ 40em/*favred1 og redbil11*/ 5em/*favgul 12*/ 40em/*gulbil og favgul1 13*/ 5em/*favgreen 14*/ 40em/*favgreen1 og greenbil 15*/ 5em /*favlilla 16*/ 40em/*lillabil og favlilla1 17*/ 5em/*favorange 18*/ 40em/*favorange1 og orangebil 19*/ 5em/*ophav 20*/ 35em/*ophav1 og ophavb 21*/ 40em/*ophav3 22*/ 5em/*lic 23*/ 30em/*lic1 og licb 24*/ 10em/*... 25*/ 5em/*copyhed 26*/ 1fr/*copy1 og copyb 27*/;
+    grid-template-rows: 5em/*fav 1*/ 10em/*fav1 2*/ 5em/*favehj 3*/ 40em/*favehj1 og farvehb 4*/ 10em/*favkil 5*/ 10em/*favepy 6*/ 40em/*farvepyt og farvepyb 7*/ 5em/*favbl 8*/ 45em/*blaabil og favbl1 9*/ 5em/*favred 10*/ 40em/*favred1 og redbil11*/ 5em/*favgul 12*/ 40em/*gulbil og favgul1 13*/ 5em/*favgreen 14*/ 40em/*favgreen1 og greenbil 15*/ 5em /*favlilla 16*/ 45em/*lillabil og favlilla1 17*/ 5em/*favorange 18*/ 50em/*favorange1 og orangebil 19*/ 5em/*farveharmoniover*/ 40em/*farveharmonitekst*/ 5em/*typografiover*/ 35em/*typobill og typotekst*/ 5em/*serifover*/ 30em/*seriftekst*/ 5em/*Sansserifover og monospaceover*/ 30em/*sansseriftekst*/ 5em/*monospaceover*/ 30em/*monospacetekst*/ 5em/*ophav 20*/ 45em/*ophav1 og ophavb 21*/ 40em/*ophav3 22*/ 5em/*lic 23*/ 30em/*lic1 og licb 24*/ 10em/*... 25*/ 5em/*copyhed 26*/ 40em/*copy1 og copyb 27*/ 5em/*kkempiri*/ 20em/*kkemptekst*/ 5em/*kvatiover*/ 20em/*kvantitekst*/ 5em/*kvaliover*/ 20em/*kvalitekst*/ 5em/*forover*/ 1fr/*fortekst*/;
     grid-template-areas: 
         "fav fav fav" 
         "fav1 fav1 fav1" 
@@ -386,6 +437,16 @@ img{
         "lillabil favlilla1 favlilla1"
         "favorange favorange favorange" 
         "favorange1 favorange1 orangebil"
+        "farveharmoni farveharmoni farveharmoni"
+        "farveharmonitekst farveharmonitekst farveharmonibill"
+        "typografiover typografiover typografiover"
+        "typobill typotekst typotekst"
+        "serifover serifover serifover"
+        "seriftekst seriftekst seriftekst"
+        "sansserifover sansserifover  sansserifoverr"
+        "sansseriftekst sansseriftekst sansseriftekst"
+        "monospaceover monospaceover monospaceover"
+        "monospacetekst monospacetekst monospacetekst"
         "ophav ophav ophav"
         "ophavb ophav1 ophav1"
         "ophav3 ophav3 ophav3"
@@ -394,7 +455,14 @@ img{
         ". . ." 
         "copyhed copyhed copyhed"
         "copyb copy1 copy1"
-        
+        "kkempiri kkempiri kkempiri"
+        "kkemptekst kkemptekst kkemptekst"
+        "kvatiover kvatiover kvatiover"
+        "kvantitekst kvantitekst kvantitekst"
+        "kvaliover kvaliover kvaliover"
+        "kvalitekst kvalitekst kvalitekst"
+        "forover forover forover"
+        "fortekst fortekst fortekst"
     }
     
     #fav{
@@ -528,8 +596,78 @@ img{
         grid-area: farvepyb;
     }
     
+    #kkempiri{
+        grid-area: kkempiri;
+    }
     
+    #kkemptekst{
+        grid-area: kkemptekst;
+    }
     
+    #kvatiover{
+        grid-area: kvatiover;
+    }
+    
+    #kvantitekst{
+        grid-area: kvantitekst;
+    }
+    
+    #kvaliover{
+        grid-area: kvaliover;
+    }
+    #kvalitekst{
+        grid-area: kvalitekst;
+    }
+    
+    #forover{
+        grid-area: forover;
+    }
+    #fortekst{
+        grid-area: fortekst;
+    }
+    
+    #typografiover{
+        grid-area: typografiover;
+    }
+    #typotekst{
+        grid-area: typotekst;
+    }
+    
+    #typobill{
+        grid-area: typobill;
+    }
+    #serifover{
+        grid-area: serifover;
+    }
+    
+    #seriftekst{
+        grid-area: seriftekst;
+    }
+
+    #sansserifover{
+        grid-area: sansserifover;
+    }
+    
+    #sansseriftekst{
+        grid-area: sansseriftekst;
+    }
+    
+    #monospaceover{
+        grid-area: monospaceover;
+    }
+    
+    #monospacetekst{
+        grid-area: monospacetekst;
+    }
+    #farveharmoni{
+        grid-area: farveharmoni;
+    }
+    #farveharmonitekst{
+        grid-area: farveharmonitekst;
+    }
+    #farveharmonibill{
+        grid-area: farveharmonibill;
+    }
 /*Grid på teori på MMD SLUT*/
 
 /*Grid på programmer på MMD START*/     
@@ -642,6 +780,50 @@ img{
     }
     
 /*Grid på programmer på MMD Slut*/    
+    
+    
+/*Grid Kommunikation start*/
+    
+    #kommunikatiogrid{
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    grid-template-rows: 10em 15em 1fr 1fr 1fr;
+    grid-template-areas: 
+        "kommunikation1 kommunikation1"
+        "kommunikation_b1 kommunikation_b1"
+        "kommunikation_b2 kommunikationbil2"
+        "kommunikationbil1 kommunikation_b3"
+        "videobeskrivelse kommunikationvideo"
+        
+       
+}
+    #kommunikation1{
+        grid-area: kommunikation1;
+    }
+    #kommunikationbil1{
+        grid-area: kommunikationbil1;
+    }
+    #kommunikation_b1{
+        grid-area: kommunikation_b1;
+    }
+    #kommunikationbil2{
+        grid-area: kommunikationbil2;
+    }
+    #kommunikation_b2{
+        grid-area: kommunikation_b2;
+    }
+    #kommunikation_b3{
+        grid-area: kommunikation_b3;
+    }
+     #kommunikationvideo{
+        grid-area: kommunikationvideo;
+    }
+    #videobeskrivelse{
+        grid-area: videobeskrivelse;
+    }
+/* Grid kommunikation SLUT*/ 
+    
+    
 /* grid på siden projekter billeder i design thinking start*/
 #billederonegrid{
     display: grid;
@@ -733,6 +915,14 @@ q{
         grid-area: interbillede3;
     }
     /* Grid historie timen slut */
+    
+    /* alle kilder start */
+    #creativcloudai{
+        width: 50%;
+    }
+    #interbilledekilder{
+        width: 50%;
+    }
 } /* desktop slut*/
 
 footer{

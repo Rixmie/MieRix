@@ -28,32 +28,35 @@
         <!-- php menu -->
         <section id="gridommig">
         <section id="mierix1">
-        <h2>Hvem er det her så?</h2>
-        <p> Mit navn er Mie Rix, jeg er 25 år og går på Multimediedesigneren (MMD) på Erhvervsakademiet Dania i Skive (EA Dania Skive). <br>
-        <br>
-        <br>
-        Jeg har tidligere studeret på Skive handelsskole med både Butiksmedhjælperen samt Grundforløb 2 både som EUD og EUX.<br>
-        <br>
-        <br>
-        Jeg har siden da også taget EUX studieforløb på Skive College, som jeg afsluttede den 25 juni 2018.<br>
-        <br>
-        <br>
-        Jeg har fra maj 2015 og frem til August 2018 arbejdet på Kebabhuset Amore i Skive både som udbringer og tjener så jeg har kender til kundehåndtering ikke kun i teori igennem min uddannelse inden for detail og kontor på EUD/EUX men også i praktsis bad disken i det virkelig liv. <br>
-        <br>
-        <br>
-        Jeg er mor til en knægt på et år han ses på billedet sammen med mig som er vores julekort anno 2019 som er taget af en klassekammerat på skolen hvor jeg selv har rettet til med lys osv. i Photoshop.</p>
+        <h2>Fakta:</h2>
+        <p> Navn: Mie Rix<br>
+            Alder: 25 år<br>
+            Bosat: Skive<br>
+            Status: Mor til en dreng<br>
+            Beskæftigelse: Studere på Multimediedesigner uddannelsen EA dania Skive.<br>
+            Udannelse:<br>
+            Skive College EUX Studie forløb<br>
+            Skive Handelsskole EUX GF2<br>
+            Skive Handelsskole EUD GF2<br>
+            Skive Handelsskole Butiks medhjælperen<br>
+            Social- og Sundhedsskolen Skive Pædagogisk Assistent uddannelsen (ikke færdiggjort)<br>
+            Social- og Sundhedsskolen Skive Grundforløb<br>
+            Nørbæk Efterskole 10 klasse<br>
+            Højselv Skole 0-9. klasse.<br>
+            Job: Kebabhuset Amore tjener og udbringerfra Maj 2015 til Aug. 2018<br>
+            Hjælpetræner hos Nr. Søby IF. fra sæson start sep. 2008 til sæson slutning marts 2012<br>
         </section> <!-- Mierix1-->
         
         <img src="WilliamogmorESJ-kopi.jpg" id="wme" alt="minbuffas og jeg">
         <section id="mierix2">
-        <p>Jeg har styr på mine ting og overholder de aftaler jeg laver, jeg er god til rutine arbejde og finder en hurtig tryghed her i, men jeg nyder også og få nye opgaver hvor jeg kan udvikle på de evner jeg i forvejen har tillært mig men også hvor jeg kan få udvidet min horisont på mere end bare en måde af gang som da jeg skulle for første gang starte med at lærer omkring HTML og CSS kodning.<br>
+        <p>Jeg har styr på mine ting og overholder de aftaler jeg laver, jeg er god til rutine arbejde og finder en hurtig tryghed her i, men jeg nyder også at få nye opgaver hvor jeg kan udvikle på de evner jeg i forvejen har tillært mig men også hvor jeg kan få udvidet min horisont på mere end bare en måde af gang som da jeg skulle for første gang starte med at lærer omkring HTML og CSS kodning.<br>
         <br>
-        Jeg har altid en plan som grundlag når jeg starter på noget og den plan bliver fulgt indtil der er noget ikke går som det skal så er det godt at man som forældre lærer altid at have en backup plan.<br>
+        Jeg har altid en plan som grundlag når jeg starter på noget og den plan bliver fulgt indtil der er noget ikke går som det skal.(så er det godt at man som forældre lærer altid at have en backup plan) <br>
         <br>
         Jeg er kreativ af sind og har altid haft en kærlighed for farver især farven Pink hvilket også afspejles i menuen (sorry for that).<br>
         <br>
-        Den kreative del kommer sig af at man må være kreativ når man ikke har de store evner indenfor læsning samt skrivning.<br>
-        Med dette kan jeg så løfte sløret for jeg er konstateret ordblind så stavefejl vil i npok finde selvom jeg forsøger med alle mine redskaber og få dem sorteret ud og hvad angår komme og punktum så ja vi er heller ikke de bedste venner men de dukker op efternånden som jeg ikka her mere luft.<br>
+        Den kreative del kommer sig af at man må være kreativ når man ikke altid har haft de store evner indenfor læsning samt skrivning.<br>
+        Med dette kan jeg så løfte sløret for jeg er konstateret ordblind så stavefejl vil i nok finde selvom jeg forsøger med alle mine redskaber og få dem sorteret ud og hvad angår komma og punktum så ja vi er heller ikke de bedste venner men de dukker op efternånden som jeg ikka her mere luft.<br>
         <br>
         Min fritid som ikke bruges på K3 (selvstudie) bruges som oftest med veninder/venner, familie og kæresten i selvskab med min søn.
         </p>

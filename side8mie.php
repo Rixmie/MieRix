@@ -28,8 +28,8 @@
         <!-- php menu -->
         
         <h1>Kilder der har været i brug under opbyggelsen af denne hjemmeside</h1> <!-- overskrift forsiden-->
-        
-<h2> Fysiske Bøger</h2>
+        <section id="kilder_alle">
+        <h2>Fysiske Bøger</h2>
         
         <!-- kilder fysiske bøger start -->
       <p> Fysiske bøger:
@@ -49,13 +49,6 @@
           ISBN: 9788741261683<br>
           <br>
           <br>
-          Titel: Business model generation - en håndbog for nytænkere, banebrydere og rebeller<br>
-          Forlag: Gyldendal<br>
-          Forfatter: Alexander Osterwalder & Yves Pigneur<br>
-          Udgivelsesår: 2013<br>
-          ISBN: 9788702145502 <br>
-          <br>
-          <br>
           Titel: Politikens Forkortelsesordbog<br>
           Forlag: Politikens Forlag A/S<br>
           Forfatter: udkendt?<br>
@@ -64,6 +57,21 @@
           ISBN: 87-567-6473-1<br>
           <br>
           <br>
+          Titel: Politikens Retskrivnings- og betydningsordbog<br>
+          Forlag:udsendes af Bonniers Bogklubber - et selskab i Bonnier Forlagene A/S efter overenskomst med Forlag &copy; 2005 JP/Politikens Forlagshus A/S<br>
+          Printed in Norway 2006<br>
+          Redaktion: Christian Becker-Christensen<br>
+          Sprogrigtighedsbokse: Susie Heede-Andersen<br>
+          Etymologibokse: Ole Schierbeck<br>
+          Redaktører ved tidligere udgaver: Bente Bang, Christian Becker-Christensen, Malene Grue, Marianne Høimark, Peter Widell.<br>
+          Grafisk tilrettelægning: Anders Peter Mejer, Embryo Design<br>
+          Ombrydning: Christensen Grafisk ApS<br>
+          Tryk: Nordbook AS, Norway<br>
+          Udgivelsesår: 2006<br>
+          Udgave: 1. bogklubudgave, 1. oplag 2006<br>
+          ISBN-10: 87-604-2567-9<br>
+          ISBN-13: 978-87-604-2567-7<br>
+          www.bogklubben.dk<br>
 
         </p>
         <!-- kilder fysiske bøger slut -->
@@ -74,8 +82,13 @@
         Forlag: Hans Reitzels Forlag<br>
         Forfatter: Hans-Christian Christiansen og Gitte B. Rose(red)<br>
         <br>
-
-        
+        Titel: Præsentation og formidling<br>
+        Forlag: &copy; forfatteren og Hanns Reitzels forlag 2008 <br>
+        tidligere udgivet hos Academica, Aarhus<br>
+        Forfatter: Mette Hald<br>
+        Printet in Latvia 2012<br>
+        Udgave: 1. udgave, 4 oplag<br>
+        ISBN: 978-87-7675-682-6<br>
         
         </p>
         <!-- kilder digitale bøger i pdf Slut -->
@@ -93,7 +106,18 @@
         <a href="https://www.dr.dk/presse/internettets-historie">https://www.dr.dk/presse/internettets-historie</a><br><p>internettets historie (fundet den 3/1 2020 kl. 12.50)</p>
         
         <a href="https://thecolourjournal.wordpress.com/2014/09/29/johannes-itten-1888-1967/">https://thecolourjournal.wordpress.com/2014/09/29/johannes-itten-1888-1967/</a><br><p>farvehjulet teori  brugt under undervisningen fra den 2. oktober 2019</p>
+        
+        <a href="https://www.howtogeek.com/180167/htg-explains-what-is-github-and-what-do-geeks-use-it-for/">https://www.howtogeek.com/180167/htg-explains-what-is-github-and-what-do-geeks-use-it-for/</a><br><p>artikel om GitHub og hjvad det bruges til</p>
+        
+        <a href="http://denstoredanske.dk/Kunst_og_kultur/Bog-_og_biblioteksvæsen/Boghistorie_og_bogtryk/typografi">http://denstoredanske.dk/Kunst_og_kultur/Bog-_og_biblioteksvæsen/Boghistorie_og_bogtryk/typografi</a><br><p>typografi betydning fra den store danske</p>
+        
         <!-- kilder links slut -->
+        <h2> Youtube links </h2>
+         <a href="https://www.youtube.com/watch?v=9hIQjrMHTv4&feature=emb_title">https://www.youtube.com/watch?v=9hIQjrMHTv4&feature=emb_title</a>
+        
+        <a href="https://www.youtube.com/watch?v=jFM8mv0wb8g&feature=emb_title">https://www.youtube.com/watch?v=jFM8mv0wb8g&feature=emb_title</a>
+        
+        <a href="https://www.youtube.com/watch?v=j4cN_q3NX9c&feature=emb_title">https://www.youtube.com/watch?v=j4cN_q3NX9c&feature=emb_title</a>
         
         <h2>Beskrivelser som ikke kunne kopiérs</h2>
         <p>beskrivelse af Ai hentet fra creative cloud 3 januar 2020</p>
@@ -116,7 +140,7 @@
         <a href="https://www.colourbox.com/vector/internet-vector-9313928">https://www.colourbox.com/vector/internet-vector-9313928</a><br><p>internet billede med tekst fundet den 22 dec. 2019</p>
         
         <p>billede af det Hvide hus hjemmeside anno 1996 taget som skærmbillede fra PDF filen Online Kommunikation – EN INTRODUKTION</p>
-        <img src="Dethvidehushjemmeside.png" id="interbillede" alt="det hvide hus hjemmeside fra online kommunikation pdf">
+        <img src="Dethvidehushjemmeside.png" id="interbilledekilder" alt="det hvide hus hjemmeside fra online kommunikation pdf">
         
         <h2>Billeder på teori på MMD</h2>
          <a href="https://images.app.goo.gl/MFXhGj47n67GRrLz8">https://images.app.goo.gl/MFXhGj47n67GRrLz8</a><br><p>billede af farvehjulet fundet den 4 januar 2020 på Google søgning</p>
@@ -142,8 +166,13 @@
         
         <a href="https://www.colourbox.dk/billede/international-strategi-licensering-billede-18773273">https://www.colourbox.dk/billede/international-strategi-licensering-billede-18773273</a><p>Copyright billede med tekst</p>
         
+        <a href="https://www.colourbox.dk/billede/baggrund-background-gul-billede-4271532">https://www.colourbox.dk/billede/baggrund-background-gul-billede-4271532</a><p>typografi billede af gammel bog</p>
         
         
+        <h2>billeder kommunikation</h2>
+        <p>hentet på colorbox</p>
+        <a href="https://www.colourbox.dk/vektor/visuel-kommunikation-koncept-vektor-8148842">https://www.colourbox.dk/vektor/visuel-kommunikation-koncept-vektor-8148842</a><p>kommunikation billede med tekst</p>
+        </section> <!-- kilder_alle -->
     </body>
     <footer>
     <?php
