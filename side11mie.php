@@ -36,7 +36,7 @@
         
         <!-- beskrivelse af hvad denne hjemmeside er og hvem jeg er her under -->
         <section id="kommunikation_b1">
-        <p> Nu vil jeg fortælle lidt omkring kommunikation og i finder på denne side små vidoer som forklare hvad vi har gennemgået i kommunikation både med præsentationer men også omkring feedback.
+        <p> Nu vil jeg fortælle lidt omkring kommunikation og i finder på denne side små vidoer som forklare hvad vi har gennemgået i kommunikation både med præsentationteknik.
         </p>
         </section> <!-- kommunikation_b1-->
             <img src="kodningafkommunikation_fra_kommunikation_i_multimedie_design_side_26.png" id="kommunikationbil2" alt="kommunikation">
