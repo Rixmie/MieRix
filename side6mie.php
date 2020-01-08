@@ -49,6 +49,12 @@
         </p>
         
         <!-- processen slut -->
+        <h2>designet</h2>
+        <p>Mine tanker omkring designet af denne side har hele tiden været at den skulle være nem og overskuelig, jeg har dog igennem processen erfaret at det var svære og finde ud af hvad der gjorde den nem og overskuelig samt at med farver skulle det være nogle som var rare når man skulle læse på siden tilgengæld ville jeg også gerne have at den havde noget som var mig hvilket blev menuen med farevr som blev kombinationen af pink og sort dog erfarede jeg også at min menu ikke vil ændre sig på den måde jeg ville.</p>
+        
+        <!-- designet slut-->
+        
+        
         <h2>kodningen</h2>
         <p> Hjemmesiden er grundlæggende kodet som almindelig HTML men dette er i en php kode da jeg fandt dette nemmere da jeg ville embette en menu med det udseende som jeg ønskede den skulle være på de forskellige responsite statider.<br>
         Alt styleingen forgår i CSS kodningen.<br>
